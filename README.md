@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3 security.
 - 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on smart contract auditing 
-- 📫 You can reach me over X [(0xmexp)](https://x.com/0xmexp)
+- 📫 You can reach me over X ([0xmexp](https://x.com/0xmexp))
 
 
 <!---
